@@ -6,7 +6,12 @@ To be able to solve the exercises you first need to learn how to list branches a
 ## Tasks
 
 ### Initialize exercises
-Initialize your repository by running the initialization script, bash ./helper/init. This will create branches needed for the following tasks.
+Initialize your repository by running the initialization script, bash:
+```bash
+./helper/init
+```
+
+This will create branches needed for the following tasks.
 1. Executing the git branch command in shell returns the following output.
 ```bash
 collect-files
