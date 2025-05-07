@@ -1,2 +1,6 @@
 error: pathspec 'development' did not match any file(s) known to git
 Switched to a new branch 'collect-files'
+error: pathspec 'development' did not match any file(s) known to git
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/foldesistudio/gitting-around.git/'
+error: pathspec 'development' did not match any file(s) known to git
